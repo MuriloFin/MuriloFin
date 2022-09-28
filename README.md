@@ -2,7 +2,14 @@
 
 I'm a Full Stack Developer, so I love both front and back-end 👽
 
-![](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif)
+
+
+<p align="center">
+   ![](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif)
+</p>
+
+
+
 
 I have some projects using Ruby On Rails, and must confess that I love working on it, specifically a project that I developed with some colleagues called Pet Your Life.
 
@@ -10,6 +17,9 @@ I'm a creative person, who loves technology, and who is always studying to impro
 
 
 These are some tools and technologies that I use
+
+
+
 
 <p float="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="40" height="40"/>
@@ -21,6 +31,9 @@ These are some tools and technologies that I use
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 </p> 
           
+
+
+
 
 If you are interested, please don't hesitate to contact me.
 I believe that a community of friendly developers is the key to better technological development.
