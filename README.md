@@ -28,7 +28,7 @@ These are some tools and technologies that I use
 
 
 </pre>
-<p float="left">
+<p float="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -45,7 +45,7 @@ These are some tools and technologies that I use
 </pre>
 
 If you are interested, please don't hesitate to contact me.
-I believe that a community of friendly developers is the key to better technological development.
+I believe that a community of friendly developers is the key to an evolved society.
 
 <pre>
 
