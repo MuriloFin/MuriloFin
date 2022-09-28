@@ -7,7 +7,9 @@ I'm a Full Stack Developer, so I love both front and back-end 👽
 
 
 </pre>
-![](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif)
+
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif)
+
 <pre>
 
 
@@ -15,6 +17,8 @@ I'm a Full Stack Developer, so I love both front and back-end 👽
 </pre>
 
 I have some projects using Ruby On Rails, and must confess that I love working on it, specifically a project that I developed with some colleagues called Pet Your Life.
+
+<br/>
 
 I'm a creative person, who loves technology, and who is always studying to improve my knowledge.
 
@@ -28,7 +32,7 @@ These are some tools and technologies that I use
 
 
 </pre>
-<p float="center">
+<p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
