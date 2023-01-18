@@ -18,6 +18,8 @@ I'm a Full Stack Developer, so I love both front and back-end 👽
 
 I have some projects using Ruby On Rails, and must confess that I love working on it, specifically a project that I developed with some colleagues called Pet Your Life.
 
+**And the most important news is that I'm studying Software Engineering!!!**
+
 <br/>
 
 I'm a creative person, who loves technology, and who is always studying to improve my knowledge.
