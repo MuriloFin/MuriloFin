@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Back--End%20Developer-Java-blue?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Software%20Engineering%20Student-📚-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Oracle%20DB-💾-red?style=for-the-badge" />
+<!--   <img src="https://img.shields.io/badge/Oracle%20DB-💾-red?style=for-the-badge" /> -->
 </p>
 
 ---
