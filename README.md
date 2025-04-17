@@ -47,11 +47,11 @@ Feel free to reach out, collaborate, or just say hi!
 ---
 
 <p align="center">Thanks for visiting! 🚀</p>
-<div>
+<!-- <div>
    <a href="https://github.com/MuriloFin">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFin&layout=compact&langs_count=7&theme=dracula"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloFin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 <!--
 **MuriloFin/MuriloFin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
