@@ -1,64 +1,52 @@
-# Hello there! I'm Murilo Finardi, and it's nice to have you here 😄
+<h1 align="center">Hi there! I'm Murilo 👋</h1>
 
-I'm a Full Stack Developer, so I love both front and back-end 👽
-
-<pre>
-
-
-
-</pre>
-
- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif)
-
-<pre>
-
-
-
-</pre>
-
-I have some projects using Ruby On Rails, and must confess that I love working on it, specifically a project that I developed with some colleagues called Pet Your Life.
-
-**And the most important news is that I'm studying Software Engineering!!!**
-
-<br/>
-
-I'm a creative person, who loves technology, and who is always studying to improve my knowledge.
-
-<pre>
-
-
-</pre>
-These are some tools and technologies that I use
-
-<pre>
-
-
-</pre>
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</p> 
-          
-<pre>
+  <img src="https://img.shields.io/badge/Back--End%20Developer-Java-blue?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering%20Student-📚-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle%20DB-💾-red?style=for-the-badge" />
+</p>
+
+---
+
+### 💻 About Me
+
+I'm a back-end developer with a strong focus on **Java**, currently pursuing a degree in **Software Engineering**.  
+I have hands-on experience building backend systems, prototypes, and proof-of-concept applications.
+
+I'm passionate about writing clean, scalable code and continuously improving my skills in Java and backend development.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+</p>
+
+---
+
+### 🚀 Projects & Contributions
+
+Check out some of the repositories to see what I've been working on.  
+I enjoy exploring new tools, building backend solutions, and experimenting with different architectures.
+
+---
+
+### 📫 Let's Connect
+
+Feel free to reach out, collaborate, or just say hi!
+
+ 
+- 💼 [LinkedIn](https://www.linkedin.com/in/murilo-finardi/)  
 
 
+---
 
-</pre>
-
-If you are interested, please don't hesitate to contact me.
-I believe that a community of friendly developers is the key to an evolved society.
-
-<pre>
-
-
-
-</pre>
-
+<p align="center">Thanks for visiting! 🚀</p>
 <div>
    <a href="https://github.com/MuriloFin">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFin&layout=compact&langs_count=7&theme=dracula"/>
